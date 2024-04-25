@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CollectionsTask\CollectionsTask\bin\Debug\CollectionsTask.exe.config
+C:\Users\HP\source\repos\CollectionsTask\CollectionsTask\bin\Debug\CollectionsTask.exe
+C:\Users\HP\source\repos\CollectionsTask\CollectionsTask\bin\Debug\CollectionsTask.pdb
+C:\Users\HP\source\repos\CollectionsTask\CollectionsTask\obj\Debug\CollectionsTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CollectionsTask\CollectionsTask\obj\Debug\CollectionsTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CollectionsTask\CollectionsTask\obj\Debug\CollectionsTask.exe
+C:\Users\HP\source\repos\CollectionsTask\CollectionsTask\obj\Debug\CollectionsTask.pdb
